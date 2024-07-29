@@ -2,11 +2,11 @@
 title: InteractionとWebhookでサーバレースなDiscord Bot作成
 tags:
   - Go
+  - bot
   - discord
-  - Bot
   - CloudRun
 private: true
-updated_at: '2024-07-29T20:59:22+09:00'
+updated_at: '2024-07-29T21:06:23+09:00'
 id: ed654f048b35f9748b0f
 organization_url_name: null
 slide: false
